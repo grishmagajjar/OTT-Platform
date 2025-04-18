@@ -38,6 +38,7 @@ Provided actionable insights that enabled both platforms to optimize content str
 - Revenue & user engagement breakdown by demographics
 - Upgrade & downgrade trend analysis
 
-𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>
 
-Go to dashboard summary to deep dive in to dashboard.
+Go to dashboard summary to have overall info of dashboard.
+
+𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>

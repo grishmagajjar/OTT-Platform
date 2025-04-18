@@ -79,10 +79,12 @@ on the left side, there are:
 <img width="181" alt="Screenshot 2025-04-17 at 7 10 22 PM" src="https://github.com/user-attachments/assets/d6c74078-e6d0-447d-a44e-915db29454f0" />
 
 ### Average watch time comparision by city tier and device type:
+<img width="471" alt="Screenshot 2025-04-18 at 1 19 15 PM" src="https://github.com/user-attachments/assets/eadefe21-5bf9-4c19-8b39-36b22e03309e" />
+<img width="461" alt="Screenshot 2025-04-18 at 1 22 45 PM" src="https://github.com/user-attachments/assets/b93ceb9e-1fdf-4c08-99f1-64be8096ed02" />
 
 ### Inactivity patterns correlation with total watch time or average watch time:
 
-### Are less engaged users more likely to become inactive:
+### Are less engaged users more likely to become inactive?:
 
 ### Downgrade trends difference between LioCinema and Jotstar:
 <img width="618" alt="Screenshot 2025-04-18 at 9 23 22 AM" src="https://github.com/user-attachments/assets/ed765982-c91a-4097-949d-ad9e98b3a0c6" />

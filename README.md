@@ -43,6 +43,7 @@ Provided actionable insights that enabled both platforms to optimize content str
 
 ## Dashboard Summary
 Here is the screenshot of a data model:
+<br>
 <img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />
 
 on the right side, there are:

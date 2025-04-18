@@ -43,13 +43,13 @@ Provided actionable insights that enabled both platforms to optimize content str
 
 ## Dashboard Summary
 
-## Total number of users for LioCinema and Jotstar: 
+### Total number of users for LioCinema and Jotstar: 
 <img width="475" alt="Screenshot 2025-04-17 at 6 09 59 PM" src="https://github.com/user-attachments/assets/96e8c257-16d6-4f4f-bc43-58c0038b59f4" />
 
-## Total User growth trends (January–November 2024):
+### Total User growth trends (January–November 2024):
 <img width="540" alt="Screenshot 2025-04-17 at 6 11 51 PM" src="https://github.com/user-attachments/assets/867962d3-67e6-45ef-a02e-61a6238adaef" />
 
-## Total number of contents available on LioCinema vs. Jotstar:
+### Total number of contents available on LioCinema vs. Jotstar:
 <img width="184" alt="Screenshot 2025-04-17 at 6 12 57 PM" src="https://github.com/user-attachments/assets/c9fe30e0-4f91-4b97-abaf-1d6d1f4ed428" />
 
 #### Content Differences in terms of language and content type:

@@ -1,7 +1,27 @@
-# Dashboard Summary
+# Dashboard Info
 
 𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>
 
+There are 4 report views in this dashboard.
+1. Content & Consumption:
+   - This view provides a comprehensive overview of content performance across both platforms and their merged entity.
+   - It includes detailed information on content types, available languages, device usage, and total watch time (in hours), helping us understand user preferences and consumption patterns more effectively.
+<img width="1422" alt="Screenshot 2025-04-18 at 3 10 05 PM" src="https://github.com/user-attachments/assets/f8f51e21-aca0-49d4-9c5a-b4198f78aeed" />
+
+2. User Trends:
+   - This view presents the number of subscribers segmented by user demographics, offering valuable insights into the platform’s audience distribution and engagement patterns.
+<img width="1422" alt="Screenshot 2025-04-18 at 3 13 47 PM" src="https://github.com/user-attachments/assets/274a6e36-2d21-4b03-9832-8356b178558d" />
+
+3. Revenue Impact:
+   - This view provides insights into paid and unpaid users, as well as user upgrade and downgrade behavior. It helps identify patterns in which user segments are most likely to downgrade from the paid version.
+<img width="1422" alt="Screenshot 2025-04-18 at 3 16 10 PM" src="https://github.com/user-attachments/assets/1c561b41-ead1-424f-9edb-5af834e44e21" />
+
+4. Executive view:
+   - This view offers a consolidated summary of the previous three analyses, enabling quick and comprehensive insights at a glance for strategic decision-making.
+<img width="1422" alt="Screenshot 2025-04-18 at 3 18 09 PM" src="https://github.com/user-attachments/assets/43fab19d-e73a-4df0-868f-6ad004207171" />
+
+
+# Dashboard Summary
 Here is the screenshot of a data model:
 <br>
 <img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />

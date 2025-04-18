@@ -1,19 +1,5 @@
 # Dashboard Info
 
-
-Here is the screenshot of a data model:
-<br>
-<img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />
-
-on the right side, there are:
-- Key Measures & last_date
-- content, consumption and subscriber info with same tables for both the platforms
-
-on the left side, there are:
-- merged tables of both the platforms for Jotstar and LioCinema
-
-
-
 ### 𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>
 
 There are 4 report views in this dashboard.
@@ -83,5 +69,15 @@ Note: how I calculated total revneue?
 - Total Revenue = sum of users total revenue 
 <img width="168" alt="Screenshot 2025-04-18 at 12 18 21 PM" src="https://github.com/user-attachments/assets/2d96a5a6-ba7f-4a2d-b965-3c2a590b985a" />
 
+## Data Model Overview – showcasing key tables and relationships used in this analysis.
+Here is the screenshot of a data model:
+<br>
+<img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />
 
+on the right side, there are:
+- Key Measures & last_date
+- content, consumption and subscriber info with same tables for both the platforms
+
+on the left side, there are:
+- merged tables of both the platforms for Jotstar and LioCinema
 

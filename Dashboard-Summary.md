@@ -70,14 +70,14 @@ Note: how I calculated total revneue?
 <img width="168" alt="Screenshot 2025-04-18 at 12 18 21 PM" src="https://github.com/user-attachments/assets/2d96a5a6-ba7f-4a2d-b965-3c2a590b985a" />
 
 ## Data Model Overview – showcasing key tables and relationships used in this analysis.
-Here is the screenshot of a data model:
-<br>
+Below is the data model used for the analysis, showing key table relationships and calculated measures.
+
 <img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />
 
 on the right side, there are:
 - Key Measures & last_date
-- content, consumption and subscriber info with same tables for both the platforms
+- Content, consumption and subscriber info with corresponding tables from both platforms.
 
 on the left side, there are:
-- merged tables of both the platforms for Jotstar and LioCinema
+- Merged tables of both the platforms for Jotstar and LioCinema
 

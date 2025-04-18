@@ -28,13 +28,28 @@ It gives overall insights from all the dimensions.
 ## 𝗥𝗲𝘀𝘂𝗹𝘁:
 Provided actionable insights that enabled both platforms to optimize content strategy, enhance user engagement, and drive revenue growth.
 
-#### Total number of users for LioCinema and Jotstar: 
+## 🛠 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
+- SQL (MySQL) for data extraction
+- Power BI for visualisation & insights
+
+## 🔍 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+- Interactive filters to analyze active/inactive user behavior
+- Subscription plan transitions with Sankey charts
+- Revenue & user engagement breakdown by demographics
+- Upgrade & downgrade trend analysis
+
+𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>
+
+
+## Dashboard Summary
+
+## Total number of users for LioCinema and Jotstar: 
 <img width="475" alt="Screenshot 2025-04-17 at 6 09 59 PM" src="https://github.com/user-attachments/assets/96e8c257-16d6-4f4f-bc43-58c0038b59f4" />
 
-#### Total User growth trends (January–November 2024):
+## Total User growth trends (January–November 2024):
 <img width="540" alt="Screenshot 2025-04-17 at 6 11 51 PM" src="https://github.com/user-attachments/assets/867962d3-67e6-45ef-a02e-61a6238adaef" />
 
-#### Total number of contents available on LioCinema vs. Jotstar:
+## Total number of contents available on LioCinema vs. Jotstar:
 <img width="184" alt="Screenshot 2025-04-17 at 6 12 57 PM" src="https://github.com/user-attachments/assets/c9fe30e0-4f91-4b97-abaf-1d6d1f4ed428" />
 
 #### Content Differences in terms of language and content type:
@@ -54,23 +69,3 @@ Provided actionable insights that enabled both platforms to optimize content str
 <img width="181" alt="Screenshot 2025-04-17 at 7 10 22 PM" src="https://github.com/user-attachments/assets/d6c74078-e6d0-447d-a44e-915db29454f0" />
 
 #### Average watch time comparision by city tier and device type
-
-
-
-
-
-
-
-
-
-## 🛠 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
-- SQL (MySQL) for data extraction
-- Power BI for visualisation & insights
-
-## 🔍 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
-- Interactive filters to analyze active/inactive user behavior
-- Subscription plan transitions with Sankey charts
-- Revenue & user engagement breakdown by demographics
-- Upgrade & downgrade trend analysis
-
-𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzQ4MjUzNWItY2ZjNS00NjU1LTlmMTAtNjM0ZDFjNDVmYTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">Go to Link</a>

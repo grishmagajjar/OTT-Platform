@@ -1,4 +1,4 @@
-# OTT-Platform
+# Strategic merger of the platforms LioCinema & Jotstar
 
 The objective of the project is to strategically merge the two OTT platforms, Jotstar and LioCinema, in a way that maximizes mutual profitability and business growth.
 

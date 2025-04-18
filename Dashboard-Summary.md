@@ -22,16 +22,6 @@ There are 4 report views in this dashboard.
 
 
 # Dashboard Summary
-Here is the screenshot of a data model:
-<br>
-<img width="1408" alt="Screenshot 2025-04-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/dd9aa1e2-e800-47fd-a429-55e0154d9c69" />
-
-on the right side, there are:
-- Key Measures & last_date
-- content, consumption and subscriber info with same tables for both the platforms
-
-on the left side, there are:
-- merged tables of both the platforms for Jotstar and LioCinema
 
 ### Total number of users for LioCinema and Jotstar: 
 <img width="475" alt="Screenshot 2025-04-17 at 6 09 59 PM" src="https://github.com/user-attachments/assets/96e8c257-16d6-4f4f-bc43-58c0038b59f4" />
